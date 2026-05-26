@@ -42,7 +42,8 @@ Powershell commands
 
 Powershell
 .\CA-Auditor.ps1
-<img width="1574" height="734" alt="Screenshot 2026-05-26 144147" src="https://github.com/user-attachments/assets/5736d835-e017-4e6c-ab20-9df492a555c6" />
+<img width="1560" height="699" alt="Powershell_script" src="https://github.com/user-attachments/assets/0be43a63-ba38-4b26-8d86-6104ca005b13" />
+
 
 
 Outputs 'CA-Audit-Report.html' and 'CA-Audit-Report.csv' in the current directory.
