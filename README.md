@@ -47,6 +47,8 @@ Powershell
 
 Outputs 'CA-Audit-Report.html' and 'CA-Audit-Report.csv' in the current directory.
 <img width="1066" height="142" alt="image" src="https://github.com/user-attachments/assets/e8aecbc3-6dcd-449b-897f-d0e1227bbe69" />
+<img width="1912" height="1074" alt="Html_Report" src="https://github.com/user-attachments/assets/1cbd0539-7249-4069-ae87-ee8fc1866ce2" />
+
 
 
 ## Safety
