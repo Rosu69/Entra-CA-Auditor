@@ -41,8 +41,6 @@ Powershell commands
 ## Usage
 
 Powershell
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
-
 .\CA-Auditor.ps1
 <img width="1574" height="734" alt="Screenshot 2026-05-26 144147" src="https://github.com/user-attachments/assets/5736d835-e017-4e6c-ab20-9df492a555c6" />
 
